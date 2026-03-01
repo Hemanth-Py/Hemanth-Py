@@ -8,7 +8,7 @@
 * **AWS Ecosystem:** 
     * **Compute/API:** Lambda, API Gateway, AppSync, Step Functions.
     * **Messaging/Integration:** SNS, SQS, EventBridge (Event Bus).
-    * **Database/Storage:** DynamoDB, S3.
+    * **Database/Storage:** RDS(Aurora PostgreSql), DynamoDB, S3.
     * **Data Pipelines:** Kinesis Firehose, Athena.
     * **Security/Identity:** Cognito, KMS, IAM.
     * **Communication/Logs:** SES, CloudWatch.
