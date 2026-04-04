@@ -45,24 +45,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
+**25+ public repositories** | **13+ private repositories** | **Multiple languages**: Python, JavaScript, TypeScript, Swift, Dart
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanth-Py&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-Py&theme=dark&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hemanth-Py/Hemanth-Py/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hemanth-Py/Hemanth-Py/output/github-contribution-grid-snake.svg">
-</picture>
+*Snake animation generates daily via GitHub Actions — check it live on [my profile](https://github.com/Hemanth-Py)*
 
 ---
 
