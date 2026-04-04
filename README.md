@@ -57,7 +57,7 @@
 - Aurora PostgreSQL with RDS Data API for serverless
 - Custom response parsing for complex types (UUID, JSONB, Vector, Timestamp)
 - DynamoDB transaction patterns & JSON synchronization
-- Enterprise-scale data migrations (S3/DynamoDB → RDS)
+- Data migrations (S3/DynamoDB → RDS)
 
 **Cloud-Native Design**
 - Serverless architecture (Lambda, API Gateway, AppSync)
