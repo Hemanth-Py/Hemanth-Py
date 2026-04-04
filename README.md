@@ -26,8 +26,8 @@
 
 ## 🚀 What I Build
 
-🏗️ **High-Scale Serverless Systems** — Event platforms handling millions of transactions  
-🔐 **Production AI/ML** — AWS Rekognition facial indexing & identity verification for event check-ins  
+🏗️ **Serverless Systems** — Event platforms, ticketing systems, attendee management  
+🔐 **AI/ML Integration** — AWS Rekognition facial indexing & identity verification  
 💾 **Database Architecture** — Aurora PostgreSQL via Data API, DynamoDB JSON sync patterns  
 ⚡ **Real-Time Processing** — Kinesis Firehose pipelines, multi-channel notifications (SQS/SNS/EventBridge)  
 🔄 **Complex Orchestration** — Step Functions workflows for payments, settlements, calculations  
@@ -65,9 +65,9 @@
 - Real-time data pipelines (Kinesis Firehose, Athena)
 - Identity & security (Cognito, KMS, IAM policies)
 
-**Production AI/ML**
+**AI/ML Integration**
 - AWS Rekognition face detection, indexing, and search
-- Facial biometric linking for secure authentication
+- Facial biometric linking for identity verification
 - Image quality validation & error handling
 
 ---
@@ -81,7 +81,7 @@
 
 <div align="center">
 
-### 🎯 *Building the infrastructure that scales events to millions*
+### 🎯 *Building scalable infrastructure for event management platforms*
 
 **Code speaks louder than words. Check out my repositories above →**
 
