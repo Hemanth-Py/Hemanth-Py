@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hemanth P
 
-**Principal Backend Engineer · AWS Cloud Architecture · Python · Serverless**
+**Backend Engineer · AWS Cloud Architecture · Python · Serverless**
 
 📍 Bangalore | 🏢 [KonfHub Technologies](https://konfhub.com) | 🔗 [Portfolio](#featured-projects)
 
@@ -26,8 +26,8 @@
 
 ## 🚀 What I Build
 
-🏗️ **Serverless Systems** — Event platforms, ticketing systems, attendee management  
-🔐 **AI/ML Integration** — AWS Rekognition facial indexing & identity verification  
+🏗️ **High-Scale Serverless Systems** — Event platforms handling millions of transactions  
+🔐 **Production AI/ML** — AWS Rekognition facial indexing & identity verification for event check-ins  
 💾 **Database Architecture** — Aurora PostgreSQL via Data API, DynamoDB JSON sync patterns  
 ⚡ **Real-Time Processing** — Kinesis Firehose pipelines, multi-channel notifications (SQS/SNS/EventBridge)  
 🔄 **Complex Orchestration** — Step Functions workflows for payments, settlements, calculations  
@@ -49,8 +49,6 @@
 
 **25+ public repositories** | **13+ private repositories** | **Multiple languages**: Python, JavaScript, TypeScript, Swift, Dart
 
-*Snake animation generates daily via GitHub Actions — check it live on [my profile](https://github.com/Hemanth-Py)*
-
 ---
 
 ## 💡 Core Expertise
@@ -67,9 +65,9 @@
 - Real-time data pipelines (Kinesis Firehose, Athena)
 - Identity & security (Cognito, KMS, IAM policies)
 
-**AI/ML Integration**
+**Production AI/ML**
 - AWS Rekognition face detection, indexing, and search
-- Facial biometric linking for identity verification
+- Facial biometric linking for secure authentication
 - Image quality validation & error handling
 
 ---
@@ -81,19 +79,9 @@
 
 ---
 
-## 📌 Recent Work
-
-**Event Management Platform (KonfHub)**
-- Real-time attendee management & ticket transfers
-- Multi-channel notifications (Email, SMS, WhatsApp, Push)
-- Settlement & payment orchestration
-- Facial biometric check-in system
-
----
-
 <div align="center">
 
-### 🎯 *Building scalable infrastructure for event management platforms*
+### 🎯 *Building the infrastructure that scales events to millions*
 
 **Code speaks louder than words. Check out my repositories above →**
 
