@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hemanth P
 
-**Principal Backend Engineer · AWS Cloud Architecture · Python · Serverless**
+**Backend Engineer · AWS Cloud Architecture · Python · Serverless**
 
 📍 Bangalore | 🏢 [KonfHub Technologies](https://konfhub.com) | 🔗 [Portfolio](#featured-projects)
 
@@ -49,8 +49,6 @@
 
 **25+ public repositories** | **13+ private repositories** | **Multiple languages**: Python, JavaScript, TypeScript, Swift, Dart
 
-*Snake animation generates daily via GitHub Actions — check it live on [my profile](https://github.com/Hemanth-Py)*
-
 ---
 
 ## 💡 Core Expertise
@@ -78,17 +76,6 @@
 
 - **GitHub:** [Hemanth-Py](https://github.com/Hemanth-Py)
 - **KonfHub:** [KonfHub Technologies](https://github.com/KonfHub-Technologies)
-- **Cloud:** AWS Certified (implied by production systems)
-
----
-
-## 📌 Recent Work
-
-**Event Management Platform (KonfHub)**
-- Real-time attendee management & ticket transfers
-- Multi-channel notifications (Email, SMS, WhatsApp, Push)
-- Settlement & payment orchestration
-- Facial biometric check-in system
 
 ---
 
