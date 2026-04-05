@@ -45,13 +45,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 **25+ public repositories** | **13+ private repositories** | **Languages:** Python, JavaScript, TypeScript, Swift, Dart
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemanth-Py&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/Hemanth-Py)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth-Py&layout=compact&theme=dark&hide_border=true)](https://github.com/Hemanth-Py)
 
 ---
 
