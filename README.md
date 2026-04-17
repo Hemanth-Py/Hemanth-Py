@@ -31,7 +31,7 @@ $ cat ~/.motto
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth-Py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars&rank_icon=false&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth-Py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide=stars&hide_rank=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
