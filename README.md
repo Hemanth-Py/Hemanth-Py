@@ -7,7 +7,7 @@ $ whoami
 > hemanth — backend engineer @ KonfHub, Bangalore
 
 $ cat /etc/stack
-> python 3.11 | aws lambda | serverless framework
+> python 3.14 | aws lambda | serverless framework
 > aurora postgresql | dynamodb | sqs | kinesis
 > rekognition | step functions | appsync
 
